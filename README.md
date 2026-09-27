@@ -1,6 +1,6 @@
 # Multilingual Register Asymmetry in Professional Communication: Azerbaijani–Persian Code-Switching and Register Retreat among Physicians in Iran
 
-[![DOI](https://img.shields.io/badge/DOI-10.xxxx%2Fzenodo.xxxxxxx-blue.svg)](https://doi.org/)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23000825-blue.svg)](https://doi.org/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![Data Status](https://img.shields.io/badge/Data-Cleaned%20%26%20Curated-success.svg)](#data-and-replication)
@@ -11,7 +11,7 @@
 - **Title:** Multilingual Register Asymmetry in Professional Communication: Azerbaijani–Persian Code-Switching and Register Retreat among Physicians in Iran
 - **Author:** Pegah Merrikhi
 - **Scope:** Sociolinguistics, Clinical Communication, Multilingual Register Asymmetry (MRA), Register Retreat
-- **DOI:** `10.xxxx/zenodo.xxxxxxx` *(Preprint / Repository Record)*
+- **DOI:** `10.5281/zenodo.23000825` *(Preprint / Repository Record)*
 - **Data Availability:** Fully accessible in the [`data/`](./data/) and [`Figures/`](./Figures/) directories.
 
 ---
