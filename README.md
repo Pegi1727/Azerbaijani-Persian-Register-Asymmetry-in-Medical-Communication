@@ -104,6 +104,24 @@
 
 ---
 
+APA 7th:
+
+Merrikhi, P. (2026). Multilingual Register Asymmetry in Professional Communication: Azerbaijani–Persian Code-Switching and Register Retreat among Physicians in Iran [Data set & replication materials]. Zenodo. https://doi.org/10.5281/zenodo.23000825
+-------
+BibTeX:
+
+bibtex
+@misc{merrikhi_2026_mra,
+  author       = {Merrikhi, Pegah},
+  title        = {{Multilingual Register Asymmetry in Professional Communication: 
+                   Azerbaijani–Persian Code-Switching and Register Retreat among Physicians in Iran}},
+  month        = sep,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.23000825},
+  url          = {https://doi.org/10.5281/zenodo.23000825}
+}
+--------------------------------------------------------------------------------------------------------
 ## 📂 Repository Structure
 ```text
 ├── data/
